@@ -17,3 +17,5 @@ Clean Data:
 -WR is the diagonal uncertainty in pseudorange rate.  WR{k} renders the uncertainty in pseudorange rates for the visible satellites at epoch k.
 
 The spoofed data appended with "outlier" render the same information for the spoofed data.
+
+Use of UTSA_GPS_DATA for research purposes is encouraged. If you use UTSA_GPS_DATA in developing an article or thesis, please reference the following paper: A. Khalajmehrabadi, N. Gatsis, D. Akopian and A. Taha, "Real-Time Rejection and Mitigation of Time Synchronization Attacks on the Global Positioning System," in IEEE Transactions on Industrial Electronics (Early Access) doi: 10.1109/TIE.2017.2787581
